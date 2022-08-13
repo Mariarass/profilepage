@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/profilepage/static/css/main.f573155f.css",
+    "main.js": "/profilepage/static/js/main.aa0758fb.js",
+    "static/media/girl.gltf": "/profilepage/static/media/girl.7c3ec1b626d2d1569036.gltf",
+    "static/media/2.png": "/profilepage/static/media/2.860ce7db6a4d8ea34818.png",
+    "static/media/IMG_2150.jpg": "/profilepage/static/media/IMG_2150.0172f1a4f924611ff566.jpg",
+    "static/media/4.png": "/profilepage/static/media/4.6556cda6b80397f1d38c.png",
+    "static/media/1.png": "/profilepage/static/media/1.804ef1109baf9c3ff361.png",
+    "static/media/myphoto.svg": "/profilepage/static/media/myphoto.32f75c17073a0113e997fb47e5ca50cf.svg",
+    "static/media/mambl.svg": "/profilepage/static/media/mambl.03e837490f3e8d69c3ccfc44a630105b.svg",
+    "static/media/3.png": "/profilepage/static/media/3.e8c688d46eaca916ce00.png",
+    "static/media/slick.svg": "/profilepage/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/profilepage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/profilepage/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/instagram.svg": "/profilepage/static/media/instagram.145e26f193945123b6ed28f6647e42a1.svg",
+    "static/media/slick.woff": "/profilepage/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/github.svg": "/profilepage/static/media/github.0c75c77a8210aaaf0804efbf9581815d.svg",
+    "static/media/language.svg": "/profilepage/static/media/language.c7582f6b50608a944e094c8abefedc37.svg",
+    "static/media/whatsapp.svg": "/profilepage/static/media/whatsapp.086299998c2b5723545d705725757bb3.svg",
+    "static/media/menu.svg": "/profilepage/static/media/menu.8261c53feb2ab1c9172931b185609489.svg",
+    "index.html": "/profilepage/index.html",
+    "static/media/email.svg": "/profilepage/static/media/email.6c6a5635c43c973346238fdb5362f65a.svg",
+    "main.f573155f.css.map": "/profilepage/static/css/main.f573155f.css.map",
+    "main.aa0758fb.js.map": "/profilepage/static/js/main.aa0758fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f573155f.css",
+    "static/js/main.aa0758fb.js"
+  ]
+}
