@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/profilepage/static/css/main.f573155f.css",
-    "main.js": "/profilepage/static/js/main.aa0758fb.js",
+    "main.css": "/profilepage/static/css/main.7dcac95f.css",
+    "main.js": "/profilepage/static/js/main.b9b61cf2.js",
     "static/media/girl.gltf": "/profilepage/static/media/girl.7c3ec1b626d2d1569036.gltf",
     "static/media/2.png": "/profilepage/static/media/2.860ce7db6a4d8ea34818.png",
     "static/media/IMG_2150.jpg": "/profilepage/static/media/IMG_2150.0172f1a4f924611ff566.jpg",
     "static/media/4.png": "/profilepage/static/media/4.6556cda6b80397f1d38c.png",
     "static/media/1.png": "/profilepage/static/media/1.804ef1109baf9c3ff361.png",
     "static/media/myphoto.svg": "/profilepage/static/media/myphoto.32f75c17073a0113e997fb47e5ca50cf.svg",
+    "static/media/5.png": "/profilepage/static/media/5.ccb01a4e2549ae6c727e.png",
     "static/media/mambl.svg": "/profilepage/static/media/mambl.03e837490f3e8d69c3ccfc44a630105b.svg",
     "static/media/3.png": "/profilepage/static/media/3.e8c688d46eaca916ce00.png",
     "static/media/slick.svg": "/profilepage/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -21,11 +22,11 @@
     "static/media/menu.svg": "/profilepage/static/media/menu.8261c53feb2ab1c9172931b185609489.svg",
     "index.html": "/profilepage/index.html",
     "static/media/email.svg": "/profilepage/static/media/email.6c6a5635c43c973346238fdb5362f65a.svg",
-    "main.f573155f.css.map": "/profilepage/static/css/main.f573155f.css.map",
-    "main.aa0758fb.js.map": "/profilepage/static/js/main.aa0758fb.js.map"
+    "main.7dcac95f.css.map": "/profilepage/static/css/main.7dcac95f.css.map",
+    "main.b9b61cf2.js.map": "/profilepage/static/js/main.b9b61cf2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f573155f.css",
-    "static/js/main.aa0758fb.js"
+    "static/css/main.7dcac95f.css",
+    "static/js/main.b9b61cf2.js"
   ]
 }
